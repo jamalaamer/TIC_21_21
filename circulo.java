@@ -56,5 +56,9 @@ public class circulo {
 		area=(double) (Math.PI*radio*radio);
 		return area;
 	}
-	
+	public double devuelveLongitud(){
+		double longitud;
+		longitud=(double) (2*Math.PI*radio);
+		return longitud;
+	}
 }
