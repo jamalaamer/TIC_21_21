@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Este es el titulo de la pagina</title>
+</head>
+<body>
+
+<h1>Hola mundo</h1>
+<p>Es mi primera pagina</p>
+
+</body>
+</html>
+
